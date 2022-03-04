@@ -1,0 +1,58 @@
+{
+  "title": "Sore wa Haru no Owari ni (2020)",
+  "description": "Transferinin ilk gününde kıdemli çalışan Seiji Nakahara ile tanışan Haru Amakawa hayatında ilk defa acıyı, korkuyu ve aşkı tadar.
+Nakahara, duygularından dolayı kafası karışan Amakawa'yı öper ve “Neden biraz takılmıyoruz?” diye sorar.",
+  "artist": "Nojiro Guri",
+  "author": "Nojiro Guri",
+  "cover": "https://i.imgur.com/E6xsmhq.jpg",
+  "chapters": {
+    "1": {
+      "title": "Bölüm",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/d7g7edZ/"
+      },
+      "last_updated": "1646416899"
+    },
+    "2": {
+      "title": "Bölüm",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/AoSfAFg/"
+      },
+      "last_updated": "1646416899"
+    },
+    "3": {
+      "title": "Bölüm (Sansürsüz)",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/Pyhzvn9/"
+      },
+      "last_updated": "1646416899"
+    },
+    "4": {
+      "title": "Bölüm",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/sa6alt2/"
+      },
+      "last_updated": "1646416899"
+    },
+    "5": {
+      "title": "Bölüm (Sansürsüz) [Son]",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/pfEwVcw/"
+      },
+      "last_updated": "1646416899"
+    },
+    "6": {
+      "title": "Bölüm (Sansürsüz) [Ekstra]",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/8CHGxOV/"
+      },
+      "last_updated": "1646416899"
+    }
+  }
+}
